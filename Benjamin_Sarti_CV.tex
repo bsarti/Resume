@@ -1,0 +1,180 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cies Resume/CV
+% LaTeX Template
+% Version 1.1 (20/7/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Cies Breijs (cies@kde.nl)
+% https://github.com/cies/resume with extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper]{article} % Font size (10-12pt) and paper size (a4paper, letterpaper, legalpaper, etc)
+\usepackage[utf8]{inputenc}
+\usepackage[none]{hyphenat}
+\include{structure} % Include structure.tex which contains packages and document layout definitions
+
+\hyphenation{Some-long-word} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
+
+\begin{document} 
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\maintitle{Benjamin Sarti}{May 23\textsuperscript{rd}, 1990}  % Your name and date of birth or subtitle
+
+\noindent\href{mailto:benjamin.sarti@gmail.com}{benjamin.sarti@gmail.com} \bull Skype: benjaminsarti \bull % Your email address
+\textsmaller{+}55 (19) 98273-1367 \bull Nationality: French\\ % Your URL
+Address: Rua Francisco Andreo Aledo, 209 Ap. 04, Bar\~{a}o Geraldo, 13084-710 Campinas - SP, Brazil % Your address
+
+\spacedhrule{0.9em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	SUMMARY SECTION
+%----------------------------------------------------------------------------------------
+
+%\roottitle{Summary} % Root section title
+
+%\vspace{-1.3em} % Reduce whitespace after the Summary heading and the two-column content
+
+%\begin{multicols}{2}  % Start a two-column layout
+%\noindent \textit{A summary of your interests, achievements, history, topic of study or any other short summary of your professional life.}\\\\
+%Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis scelerisque vestibulum. Sed ut sapien et dui mollis condimentum. Phasellus enim lectus, dignissim vitae velit sit amet, porttitor tincidunt lectus. Vivamus adipiscing volutpat lacinia. Sed dui ipsum, iaculis id facilisis sed, dapibus quis lacus. Quisque blandit hendrerit malesuada. Nunc sollicitudin nisl nunc, vitae luctus leo tincidunt vel.
+
+%Pellentesque bibendum convallis adipiscing. Suspendisse facilisis id massa a lacinia. Nullam odio nibh, placerat at fermentum in, tincidunt eu ipsum. Nullam adipiscing lacus id dui suscipit commodo. Vestibulum iaculis leo imperdiet, porta lorem eu, tempus tortor. Donec interdum risus ullamcorper, vestibulum nulla ut, tincidunt ante. Duis adipiscing auctor nisi, quis tempor tortor ornare aliquet. Aenean at tempor leo. Nam eleifend venenatis elit id aliquet. Mauris quis lacinia dolor, a posuere tellus. Suspendisse nec augue pretium, condimentum risus vitae, dignissim tellus. Proin gravida ante eget massa lacinia consequat. Integer pharetra vel ligula sed vulputate. Integer eget erat quam. Proin adipiscing lorem ac purus adipiscing, non ullamcorper nisi porttitor. 
+%\end{multicols}
+
+%\spacedhrule{0.5em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Education} % Top level section
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{http://www.fee.unicamp.br/node/25}{Universidade Estadual de Campinas}}
+{\textsc{Campinas, Brazil}} {
+
+\headedsubsection % Job title entry for the current employer
+{Master of Electrical Engineering}
+{Jul. 2014 -- Dec. 2015}
+{\bodytext{
+Nonlinear programming, Information theory, Optical links and Probability theory. \\
+\emph{Dissertation title:} \href{http://www.bibliotecadigital.unicamp.br/document/?code=000963393}{"Field Calibration Procedure for Enhanced Automatic Gain Control of Distributed Counter-Propagating Raman Amplifiers."}
+}}
+}
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{https://www.centrale-marseille.fr/}{École Centrale Marseille}}
+{\textsc{Marseille, France}} {
+
+\headedsubsection % Job title entry for the current employer
+{Engineer's Degree (French \textit{Diplôme d'Ingénieur} from a \textit{Grande Ecole})}
+{Sept. 2010 -- Nov. 2014}
+{\bodytext{Multidisciplinary formation in sciences, in engineering and in social sciences.}}
+}
+
+%------------------------------------------------
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{http://www.fee.unicamp.br/cg}{Universidade Estadual de Campinas}}
+{\textsc{Campinas, Brazil}} {
+
+\headedsubsection % Job title entry for the current employer
+{Bachelor of Electrical Engineering}
+{Jul. 2012 -- Jul. 2014} 
+
+{\bodytext{{\bodytext{Telecommunications, Electronics, Control Engineering and Power Engineering.}}}}
+}
+%------------------------------------------------
+
+\spacedhrule{0.5em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Experience} % Top level section
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{https://www.cpqd.com.br/en/}{CPQD}}
+{\textsc{Campinas, Brazil}} {
+
+\headedsubsection % Job title entry for the current employer
+{R\&D Engineer}
+{Aug. 2014 -- May 2016}
+{\bodytext{\bull \emph{Optical amplifiers:} working in research and development (EDFAs and Raman amplifiers), laboratory automation for optical characterization and integration tests. \\
+\bull \emph{Tunable lasers:} built a laboratory setup for automated optical characterization.\\
+\bull \emph{Packaging for integrated photonics:} building a laboratory setup for automated free space alignment of polarization multiplexers.
+}}
+
+\headedsubsection % Job title entry for the current employer
+{Intern}
+{Jul. 2013 -- Aug. 2014}
+{\bodytext{\emph{Optical networks:} implemented dynamic equalization algorithms on CPqD's testbed.}}
+}
+%------------------------------------------------
+
+\headedsection % Employer name which can include a hyperlink and location/URL on the right side of the page
+{\href{http://www.fresnel.fr/spip/}{Institut Fresnel}}
+{\textsc{Marseille, France}} {
+
+\headedsubsection % Job title entry for the current employer
+{Intern}
+{Jun. 2012 -- Jul. 2012}
+{\bodytext{Optimized the optical filtering in the long-wavelength infrared by studying the influence of geometrical parameters and material properties of plasmonic structures on their spectral response.}}
+}
+
+
+%------------------------------------------------
+
+\spacedhrule{-0.2em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\roottitle{Skills} % Top level section
+
+\inlineheadsection % Special section that has an inline header with a 'hanging' paragraph
+{Computer skills:}
+{\bull Programming Languages: Python, MATLAB, LabVIEW, C and C++ \\ \bull Operating Systems: Windows and Linux \bull Others: OptiSystem, \LaTeX, Git, Jira, TestLink...}
+
+%------------------------------------------------
+\vspace{0.18cm}
+\inlineheadsection % Special section that has an inline header with a 'hanging' paragraph
+{Natural languages:}
+{French \textit{(mother language)}, English \textit{(advanced: 870 points at TOEIC on March 2012)}, Portuguese \textit{(advanced)} and Spanish \textit{(intermediate)}.}
+
+%------------------------------------------------
+
+\spacedhrule{1.6em}{-0.4em} % Horizontal rule - the first bracket is whitespace before and the second is after
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS AND PATENT
+%----------------------------------------------------------------------------------------
+
+\roottitle{Publications and Patent application} % Top level section
+
+{\bodytext{\bull {\href{http://dx.doi.org/10.1364/OFC.2015.Tu3H.5}{"Experimental demonstration of overshoot suppression for cascaded WSS-based ROADMs,"}} in \textit{Optical Fiber Communication Conference}, Optical Society of America, 2015.}
+}
+{\bodytext{\bull {\href{http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7369053&url}{"Field calibration procedure for enhanced automatic gain control of distributed Raman amplifiers,"}} in \textit{2015 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference}, IEEE, 2015.}
+}
+{\bodytext{\bull {\href{http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7249153&url}{"Estimating EDFA output power with an efficient numerical modeling framework,"}} in \textit{International Conference on Communications}, IEEE, 2015.}
+}
+{\bodytext{\bull "Processo de Calibra\c{c}\~{a}o em Campo dos Amplificadores Raman Distribu\'{i}dos Contra-Propagantes para Opera\c{c}\~{a}o no Modo de Controle Autom\'{a}tico de Ganho," patent application, INPE, Brazil.
+}}
+%----------------------------------------------------------------------------------------
+
+\end{document}
