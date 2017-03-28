@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 JAN 2017 17:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  28 MAR 2017 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -638,12 +638,12 @@ LaTeX Font Info:    ... okay on input line 30.
 * \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -699,110 +699,119 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
+
+Package relsize Warning: Font size 43.79999pt is too large.
+(relsize)                Using 24.88pt instead on input line 41.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 36.
+(Font)              <24.88> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <20.74> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <17.28> on input line 41.
 
 
 Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 38.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 38.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 38.
-
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 38.
+(relsize)                Using 24.88pt instead on input line 41.
 
 
 Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 39.
+(relsize)                Using 24.88pt instead on input line 42.
 
 Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/qpl/m/sc/10.95'.
+(microtype)             in font `T1/qpl/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 126.
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 83.
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 126.
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 83.
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 126.
+Overfull \hbox (5.10324pt too wide) in paragraph at lines 83--83
+[]  \T1/qpl/m/n/12 (-20) De-vel-oped An-droid ap-pli-ca-tions to in-ter-act wit
+h Famoco de-vices (NFC, con-nec-tiv-ity,
+ []
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 152.
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 152.
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 101.
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 152.
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 101.
 
 
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 170.
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 101.
 
-
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 172.
-
-
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 174.
-
-
-Package relsize Warning: Font size 43.79999pt is too large.
-(relsize)                Using 24.88pt instead on input line 177.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
 [1
 
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 184.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 184.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 184.
+
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 202.
+
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 204.
+
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 206.
+
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 209.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
  (./Benjamin_Sarti_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 180.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `Benjamin_Sarti_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
  ) 
 Here is how much of TeX's memory you used:
- 8005 strings out of 493029
- 119582 string characters out of 6136234
- 248800 words of memory out of 5000000
- 11436 multiletter control sequences out of 15000+600000
- 48488 words of font info for 59 fonts, out of 8000000 for 9000
+ 8033 strings out of 493029
+ 119911 string characters out of 6136234
+ 248822 words of memory out of 5000000
+ 11446 multiletter control sequences out of 15000+600000
+ 61156 words of font info for 70 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 34i,5n,37p,797b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,37p,797b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
 nc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qplb.pfb>
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts
 /type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Benjamin_Sarti_CV.pdf (1 page, 121989 bytes).
+Output written on Benjamin_Sarti_CV.pdf (2 pages, 126613 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 17409 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 20993 words of extra memory for PDF output out of 24883 (max. 10000000)
 
