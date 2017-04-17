@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  28 MAR 2017 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  17 APR 2017 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -762,15 +762,11 @@ Package relsize Warning: Font size 48.0pt is too large.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 184.
+(Font)              <12> on input line 186.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 184.
+(Font)              <8> on input line 186.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 184.
-
-
-Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 202.
+(Font)              <6> on input line 186.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
@@ -782,24 +778,28 @@ Package relsize Warning: Font size 48.0pt is too large.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 209.
+(relsize)                Using 24.88pt instead on input line 208.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 211.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
  (./Benjamin_Sarti_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
 Package rerunfilecheck Info: File `Benjamin_Sarti_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 236.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
  ) 
 Here is how much of TeX's memory you used:
- 8033 strings out of 493029
- 119911 string characters out of 6136234
- 248822 words of memory out of 5000000
+ 8029 strings out of 493029
+ 119867 string characters out of 6136234
+ 247822 words of memory out of 5000000
  11446 multiletter control sequences out of 15000+600000
- 61156 words of font info for 70 fonts, out of 8000000 for 9000
+ 60878 words of font info for 68 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  34i,5n,37p,797b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
@@ -808,7 +808,7 @@ nc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts
 /type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Benjamin_Sarti_CV.pdf (2 pages, 126613 bytes).
+Output written on Benjamin_Sarti_CV.pdf (2 pages, 128876 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
