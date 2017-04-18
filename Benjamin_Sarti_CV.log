@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 APR 2017 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 APR 2017 12:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -821,7 +821,7 @@ nc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts
 /type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Benjamin_Sarti_CV.pdf (2 pages, 130267 bytes).
+Output written on Benjamin_Sarti_CV.pdf (2 pages, 130272 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
