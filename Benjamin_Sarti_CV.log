@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 APR 2017 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 APR 2017 12:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -757,9 +757,9 @@ Package relsize Warning: Font size 48.0pt is too large.
 (relsize)                Using 24.88pt instead on input line 101.
 
 
-Overfull \hbox (8.89546pt too wide) in paragraph at lines 101--101
-\T1/qpl/m/n/12 (-20) com-mu-ni-ca-tions to com-mu-ni-cate with dif-fer-ent pro-
-ces-sors and mea-sur-ing in-stru-ments.
+Overfull \hbox (24.36578pt too wide) in paragraph at lines 101--101
+\T1/qpl/m/n/12 (-20) mea-sur-ing in-stru-ments us-ing se-rial, GPIB, eth-er-net
+ and USB com-mu-ni-ca-tions. In-te-gra-tion
  []
 
 [1
@@ -821,7 +821,7 @@ nc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts
 /type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Benjamin_Sarti_CV.pdf (2 pages, 130269 bytes).
+Output written on Benjamin_Sarti_CV.pdf (2 pages, 130017 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
