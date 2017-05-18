@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 APR 2017 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.18)  18 MAY 2017 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,39 +722,45 @@ Package relsize Warning: Font size 43.79999pt is too large.
 Package relsize Warning: Font size 43.79999pt is too large.
 (relsize)                Using 24.88pt instead on input line 42.
 
+
+Overfull \hbox (6.68567pt too wide) in paragraph at lines 57--62
+\T1/qpl/b/n/12 Industries of in-ter-est: \T1/qpl/m/n/12 (-20) telecom-mu-ni-ca-
+tions, soft-ware, en-ergy, elec-tron-ics, au-to-mo-tive, aerospace. 
+ []
+
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/qpl/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 83.
+(relsize)                Using 24.88pt instead on input line 84.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 83.
+(relsize)                Using 24.88pt instead on input line 84.
 
 
-Overfull \hbox (5.10324pt too wide) in paragraph at lines 83--83
+Overfull \hbox (5.10324pt too wide) in paragraph at lines 84--84
 []  \T1/qpl/m/n/12 (-20) De-vel-oped An-droid ap-pli-ca-tions to in-ter-act wit
 h Famoco de-vices (NFC, con-nec-tiv-ity,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
 
  []
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 101.
+(relsize)                Using 24.88pt instead on input line 102.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 101.
+(relsize)                Using 24.88pt instead on input line 102.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 101.
+(relsize)                Using 24.88pt instead on input line 102.
 
 [1
 
@@ -763,43 +769,43 @@ Package relsize Warning: Font size 48.0pt is too large.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 170.
+(relsize)                Using 24.88pt instead on input line 171.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 170.
+(relsize)                Using 24.88pt instead on input line 171.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 192.
+(Font)              <12> on input line 193.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 192.
+(Font)              <8> on input line 193.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 192.
+(Font)              <6> on input line 193.
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 210.
-
-
-Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 212.
+(relsize)                Using 24.88pt instead on input line 211.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 214.
+(relsize)                Using 24.88pt instead on input line 213.
 
 
 Package relsize Warning: Font size 48.0pt is too large.
-(relsize)                Using 24.88pt instead on input line 217.
+(relsize)                Using 24.88pt instead on input line 215.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+
+Package relsize Warning: Font size 48.0pt is too large.
+(relsize)                Using 24.88pt instead on input line 218.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 245.
  (./Benjamin_Sarti_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
 Package rerunfilecheck Info: File `Benjamin_Sarti_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
  ) 
 Here is how much of TeX's memory you used:
  8024 strings out of 493029
@@ -815,7 +821,7 @@ nc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
 </usr/share/texmf/fonts/type1/public/tex-gyre/qplbi.pfb></usr/share/texmf/fonts
 /type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/q
 plri.pfb>
-Output written on Benjamin_Sarti_CV.pdf (2 pages, 129382 bytes).
+Output written on Benjamin_Sarti_CV.pdf (2 pages, 129062 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
